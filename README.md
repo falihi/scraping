@@ -30,12 +30,15 @@ Proyek ini merupakan aplikasi Python yang menggunakan Selenium dan Chrome untuk 
 6. **Export Data ke CSV:**  
    - Hasil scraping dapat diekspor langsung ke format CSV.
 
+7. **Install Virtual Environment undetected_chromedriver** ([Link Download](https://github.com/falihi/scraping/blob/main/venv.rar))
+
 ---
 
 ## Prasyarat
 
 - **Python** (versi 3.8+)
 - **Google Chrome untuk Testing** ([Link Download](https://googlechromelabs.github.io/chrome-for-testing/))
+- **Virtual Environment undetected_chromedriver** ([Link Download](https://github.com/falihi/scraping/blob/main/venv.rar))
 - `undetected-chromedriver`
 - Selenium (`pip install selenium`)
 - Pandas (`pip install pandas`)
